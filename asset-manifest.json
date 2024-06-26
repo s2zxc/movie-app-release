@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/s2zxc/movie-app-release/static/js/main.0e05dd88.js",
-    "index.html": "/s2zxc/movie-app-release/index.html",
-    "main.0e05dd88.js.map": "/s2zxc/movie-app-release/static/js/main.0e05dd88.js.map"
+    "main.js": "/movie-app-release/static/js/main.0e05dd88.js",
+    "index.html": "/movie-app-release/index.html",
+    "main.0e05dd88.js.map": "/movie-app-release/static/js/main.0e05dd88.js.map"
   },
   "entrypoints": [
     "static/js/main.0e05dd88.js"
