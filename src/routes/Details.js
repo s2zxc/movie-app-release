@@ -14,7 +14,7 @@ function Details() {
         getMovie();
     },[])
     
-    return (<div>Detail</div>);
+    return (<div>Detail!!</div>);
 }
 
 export default Details;
